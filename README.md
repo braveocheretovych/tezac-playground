@@ -12,7 +12,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Status-WIP-yellow?style=for-the-badge" alt="Status"></a>
   <a href="#"><img src="https://img.shields.io/badge/Aztec-v0.81.0-blue?style=for-the-badge&logo=Aztec&logoColor=white" alt="Aztec"></a>
   <a href="#"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"></a>
-  <a href="https://twitter.com/Tezac_xyz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://x.com/Tezac_xyz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://t.me/+yhkaIiIZ8-M0MTY1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="../../issues"><img src="https://img.shields.io/badge/Report_Issue-red?style=for-the-badge&logo=github&logoColor=white" alt="Report Issue"></a>
 </p>
@@ -262,7 +262,7 @@ We welcome contributions from the community! To contribute:
 -   **Telegram**: Join our community [here](https://t.me/+WI9728WPBOE0N2M1)
 -   **Discord**: Coming soon!
 -   **Issues**: Report bugs or request features through [GitHub Issues](../../issues)
--   **Twitter**: Follow us for updates [@Tezac_xyz](https://twitter.com/Tezac_xyz)
+-   **X/Twitter**: Follow us for updates [@Tezac_xyz](https://x.com/Tezac_xyz)
 
 ## 📚 Resources
 
